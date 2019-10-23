@@ -1,6 +1,6 @@
 # insertion_sort
 
-NSERTION-SORT(A)
+INSERTION-SORT(A)
    for i = 1 to n
    	key ← A [i]
     	j ← i – 1

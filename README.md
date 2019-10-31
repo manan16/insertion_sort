@@ -1,12 +1,13 @@
 # insertion_sort
-
-INSERTION-SORT(A)
+```
+INSERTION-SORT(Array)
    for i = 1 to n
-   	key ← A [i]
+   	key ← Array[i]
     	j ← i – 1
-  	 while j > = 0 and A[j] > key
-   		A[j+1] ← A[j]
+  	 while j > = 0 and Array[j] > key
+   		Array[j+1] ← Array[j]
    		j ← j – 1
-   	End while 
-   	A[j+1] ← key
-  End for 
+   	end while 
+   	Array[j+1] ← key
+  end for 
+```
